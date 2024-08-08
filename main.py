@@ -205,6 +205,9 @@ with st.sidebar:
     #Creates clear history button
     st.button(st.session_state.button_text, on_click=clear_history)
 
+    #FORMS LINK
+    st.markdown("Please take a minute to provide us with some feedback!!\nhttps://forms.gle/CQUHuop39FviofVG9")
+
 
 
 # We loop through each message in the session state and render it as
