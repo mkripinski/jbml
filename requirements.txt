@@ -6,3 +6,4 @@ streamlit==1.34.0
 streamlit_mic_recorder==0.0.8
 translators==5.9.1
 wikipedia==1.4.0
+duckduckgo_search==6.1.2
