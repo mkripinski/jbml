@@ -8,3 +8,4 @@ translators==5.9.1
 wikipedia==1.4.0
 duckduckgo_search==6.1.2
 langchain-core==0.1.52
+duckduckgo-search
